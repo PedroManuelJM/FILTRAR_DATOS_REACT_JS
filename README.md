@@ -4,3 +4,6 @@ En este ejemplo se utilizar filter para realizar el filtro de datos de una data 
 
 
 ![filtrar](https://user-images.githubusercontent.com/71619972/111055574-28f9c700-8445-11eb-9895-59556876e7ce.PNG)
+
+
+LINK: https://pedromanueljm.github.io/FILTRAR_DATOS_REACT_JS/#/
