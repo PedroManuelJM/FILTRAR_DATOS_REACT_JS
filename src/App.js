@@ -43,7 +43,7 @@ export default class App extends Component {
                                 </h4> 
                                 <span className="text-muted float-right">&nbsp;&nbsp;<b>&nbsp;&nbsp;{filteredAviso.fecha}</b></span>
                               </div>
-                              <img src={'../img/'+filteredAviso.foto} className="img-fluid rounded"  width="100%"/>
+                              <img src={filteredAviso.foto} className="img-fluid rounded"  width="100%"/>
                               <br></br><br></br>
                               <p>
                                   {filteredAviso .subtitulo}
@@ -88,7 +88,7 @@ export default class App extends Component {
                               </h4> 
                               <span className="text-muted float-right">&nbsp;&nbsp;<b>&nbsp;&nbsp;{filteredAviso.fecha}</b></span>
                             </div>
-                            <img src={'../img/'+filteredAviso.foto} className="img-fluid rounded"  width="100%"/>
+                            <img src={filteredAviso.foto} className="img-fluid rounded"  width="100%"/>
                             <br></br><br></br>
                             <p>
                                 {filteredAviso .subtitulo}
